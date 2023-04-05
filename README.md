@@ -1,4 +1,4 @@
-# My_Project
+# CricScore Sheet
 
 
 This is the CricScore Sheet which is made using C language using concept of structures.
