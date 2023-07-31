@@ -1,4 +1,4 @@
-# CricScore - Cicket Match Simulation Project
+# CricXperience - Cicket Match Simulation Project
 
 This project is a cricket match simulation program implemented in C. The program allows users to experience the thrill of a cricket match by simulating the game between two teams. It provides a user-friendly interface where users can input details of the teams, such as player names and roles.
 
